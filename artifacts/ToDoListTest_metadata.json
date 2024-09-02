@@ -1,0 +1,104 @@
+{
+	"compiler": {
+		"version": "0.8.25+commit.b61c2a91"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "beforeEach",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "testAddTask",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "testCompleteTask",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "testDeleteTask",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "testGetTask",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "testGetTaskCount",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"unit_testTDL.sol": "ToDoListTest"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"remix_tests.sol": {
+			"keccak256": "0xe2783cdc204cba8c72494119339f1d90f9022b15d6c718c668b7f097d8e29787",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://bb6a22e64c7f16bcaab63b1c1a1b269d5be8a6d37bdd9dec1718477ab916b18e",
+				"dweb:/ipfs/QmdkW1tT5iadBvaHMCoskhDGZKnfdg8o1D9CcoQYtdJet7"
+			]
+		},
+		"toDoList.sol": {
+			"keccak256": "0xfd3d91d5fb567b3be78bc4a064e392c22689b9f00d9962b643871de99914222d",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://571e487d74e1d081eb19b935080f64839032eedf7eaebb55016e2626d1d57884",
+				"dweb:/ipfs/QmQz5eLkcNJpktgi4AP1wdsHtrizcaCWvMmpq2ffa4r7YK"
+			]
+		},
+		"unit_testTDL.sol": {
+			"keccak256": "0xa798403701da9924a88d18d76de1f19ff38e0e82c51bf6dad83487c40e6f5c01",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://8b73d198e1e9e573026c35c106a2b2863c1aaa5ac6876027fe611e6021caf344",
+				"dweb:/ipfs/QmRG1J9XTudVVz4fs8GFxg3sdbkNQ55zkaBtgcSALmBNHJ"
+			]
+		}
+	},
+	"version": 1
+}

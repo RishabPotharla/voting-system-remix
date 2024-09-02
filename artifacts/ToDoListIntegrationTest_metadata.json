@@ -1,0 +1,76 @@
+{
+	"compiler": {
+		"version": "0.8.25+commit.b61c2a91"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "beforeEach",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "testAddCompleteDeleteTasks",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"integration_testTDL.sol": "ToDoListIntegrationTest"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"integration_testTDL.sol": {
+			"keccak256": "0xed7ca6571c68f7a5778317d5c5cfacc0d91ef5958182d4483418b24f534ebece",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://47bcb7f5abdc7ae9e075faca101cf6b0ce7378d8b2a4a72d2c50c8d277eb6ec5",
+				"dweb:/ipfs/QmVBEg1dBmR8dR4uspvrN5G8s9u8ir7q4GVsggqorsZC4k"
+			]
+		},
+		"remix_tests.sol": {
+			"keccak256": "0xe2783cdc204cba8c72494119339f1d90f9022b15d6c718c668b7f097d8e29787",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://bb6a22e64c7f16bcaab63b1c1a1b269d5be8a6d37bdd9dec1718477ab916b18e",
+				"dweb:/ipfs/QmdkW1tT5iadBvaHMCoskhDGZKnfdg8o1D9CcoQYtdJet7"
+			]
+		},
+		"toDoList.sol": {
+			"keccak256": "0xfd3d91d5fb567b3be78bc4a064e392c22689b9f00d9962b643871de99914222d",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://571e487d74e1d081eb19b935080f64839032eedf7eaebb55016e2626d1d57884",
+				"dweb:/ipfs/QmQz5eLkcNJpktgi4AP1wdsHtrizcaCWvMmpq2ffa4r7YK"
+			]
+		}
+	},
+	"version": 1
+}
